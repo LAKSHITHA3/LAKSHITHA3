@@ -18,13 +18,14 @@ Technical Questionnaire.
     <html>
              
     <head>
-           
-    <style>
-             
+           <link rel="stylesheet" type="text/css" href="style.css">
+    
+
 
  
 
-
+     
+<style>
 
 .topnav {
 
@@ -106,8 +107,11 @@ Technical Questionnaire.
             
             
        </style>
-       </head>
-       <body>
+     
+       
+  </head>
+       
+ <body>
 
 
 <div class="topnav">
