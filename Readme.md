@@ -18,8 +18,8 @@ Technical Questionnaire.
     <html>
              
     <head>
-           <link rel="stylesheet" type="text/css" href="style.css">
-         
+           
+         <link rel="stylesheet" href="https://example.com/css/main.css">
 
 
  
