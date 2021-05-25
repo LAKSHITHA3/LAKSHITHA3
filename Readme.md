@@ -19,7 +19,7 @@ Technical Questionnaire.
              
     <head>
            <link rel="stylesheet" type="text/css" href="style.css">
-    
+         
 
 
  
@@ -29,8 +29,8 @@ Technical Questionnaire.
 
 .topnav {
 
-     background-color: Skyblue;
-
+       background-color: Skyblue;
+  
      overflow: auto;
 
              display: flex;
