@@ -13,21 +13,24 @@ Technical Questionnaire.
 2) code:
  
  
-             <!DOCTYPE html>
+   <!DOCTYPE html>
              
-             <html>
+    <html>
              
-             <head>
+    <head>
+           
+    <style>
              
-             <style>
-             
-/* Add a Skyblue background color to the top navigation */
 
-            .topnav {
+ 
 
-             background-color: Skyblue;
 
-             overflow: auto;
+
+.topnav {
+
+     background-color: Skyblue;
+
+     overflow: auto;
 
              display: flex;
             
