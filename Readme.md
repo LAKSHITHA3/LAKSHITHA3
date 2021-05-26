@@ -653,8 +653,14 @@ As mentioned, a variety of things make a variety of people happy. There is no ri
   </head>
   
   <body>
- <div class="lds-ripple"><div>
-  </div><div></div></div>
+ <div class="lds-ripple">
+   <div>
+   </div>
+  
+  
+   <div>
+   </div>
+   </div>
    </body>
   </html>
  
