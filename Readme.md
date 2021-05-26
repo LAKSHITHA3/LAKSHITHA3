@@ -21,7 +21,7 @@ Technical Questionnaire.
 
              
     
-    <link rel="stylesheet" href="https://github.com/css/main.css">
+   <link rel=“stylesheet” type=“text/css” href=“styles.css”>.
        <style>    
          
 
@@ -582,17 +582,18 @@ As mentioned, a variety of things make a variety of people happy. There is no ri
  <!DOCTYPE html/>
  <html>
   <head>
-  <style>
+  <syle>
    
-   lds-ripple {
+  
+  lds-ripple {
 
-  display: inline-block;
+   display: inline-block;
 
-  position: relative;
+   position: relative;
 
-  width: 80px;
+   width: 80px;
 
-  height: 80px;
+   height: 80px;
 
 }
 
@@ -648,10 +649,12 @@ As mentioned, a variety of things make a variety of people happy. There is no ri
 
 }
    </style>
+   
   </head>
   
   <body>
- <div class="lds-ripple"><div></div><div></div></div>
+ <div class="lds-ripple"><div>
+  </div><div></div></div>
    </body>
   </html>
  
